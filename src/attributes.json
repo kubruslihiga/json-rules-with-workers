@@ -1,0 +1,89 @@
+[
+    {
+      "id": "5edbbb949fc51b8adc14f13d",
+      "index": 0,
+      "guid": "3f4821c0-2989-4937-bb30-d7ae06d49b76",
+      "tshirtSize": "G",
+      "isActive": false,
+      "footSize": 37,
+      "tags": [
+        "aliquip",
+        "excepteur",
+        "ex",
+        "do"
+      ]
+    },
+    {
+      "id": "5edbbb94c837c55872ad0c58",
+      "index": 1,
+      "guid": "0146afae-0985-430c-9fab-1246d42921ef",
+      "tshirtSize": "M",
+      "isActive": true,
+      "footSize": 34,
+      "tags": [
+        "tempor",
+        "adipisicing",
+        "deserunt"
+      ]
+    },
+    {
+      "id": "5edbbb94c635b23d1de18011",
+      "index": 2,
+      "guid": "18f14416-483c-45d0-9f52-c1f433e543f3",
+      "tshirtSize": "P",
+      "isActive": true,
+      "footSize": 40,
+      "tags": [
+        "labore",
+        "aliqua",
+        "ipsum",
+        "veniam",
+        "et"
+      ]
+    },
+    {
+      "id": "5edbbb9417bbce2c16842a62",
+      "index": 3,
+      "guid": "4872c4e2-2ec9-46c3-8a68-191237fa1e18",
+      "tshirtSize": "G",
+      "isActive": true,
+      "footSize": 42,
+      "tags": [
+        "proident",
+        "non",
+        "qui",
+        "et",
+        "veniam"
+      ]
+    },
+    {
+      "id": "5edbbb9470487a2de4f9dca9",
+      "index": 4,
+      "guid": "58923061-af9d-469e-b813-f234a9a84f10",
+      "tshirtSize": "G",
+      "isActive": true,
+      "footSize": 39,
+      "tags": [
+        "ullamco",
+        "velit",
+        "fugiat",
+        "nulla",
+        "tempor"
+      ]
+    },
+    {
+      "id": "5edbbb94e3885453eb105163",
+      "index": 5,
+      "guid": "87cbce3f-4ac5-4d9f-bc21-670116178e9a",
+      "tshirtSize": "P",
+      "isActive": false,
+      "footSize": 41,
+      "tags": [
+        "fugiat",
+        "sint",
+        "aliqua",
+        "laborum",
+        "voluptate"
+      ]
+    }
+  ]
